@@ -1,4 +1,3 @@
-# grid.py
 from point import Point
 from connection import Connection
 
